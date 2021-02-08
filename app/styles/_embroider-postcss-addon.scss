@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.core-addon-style {
+  content: 'A rule defined for all upstream consumers of the emberoider-postcss-addon addon';
+}
